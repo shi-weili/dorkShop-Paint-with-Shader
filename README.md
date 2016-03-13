@@ -8,7 +8,7 @@ The dorkShop will be comprised of three parts: In the first part, applications o
 
 ## Software guidelines:
 
-We are going to edit and test our shaders in the online glslEditor (http://patriciogonzalezvivo.com/
-2016/glslEditor/). An instance of it can be accessed via http://patriciogonzalezvivo.com/2015/ thebookofshaders/edit.html#02/hello_world.frag. It is recommended that you use it in Chrome or Firefox (Safari is less stable).
+We are going to edit and test our shaders in the online [glslEditor](http://patriciogonzalezvivo.com/
+2016/glslEditor/). An instance of it can be accessed via [http://editor.thebookofshaders.com](http://editor.thebookofshaders.com). It is recommended that you use it in Chrome or Firefox (Safari is less stable).
 
 If you want to go through the process of integrating shader into openFrameworks/Unity projects, it is recommended that you use a Mac and have these platforms installed.
